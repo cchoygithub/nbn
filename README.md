@@ -1,2 +1,2 @@
 # nbn
-For file sharing
+Custom JAR file for NBN SNIM Apps custom instrumentation.
